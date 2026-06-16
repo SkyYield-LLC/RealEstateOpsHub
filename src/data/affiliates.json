@@ -171,5 +171,25 @@
     "network": "direct",
     "status": "active",
     "category": "Data & Analytics"
+  },
+  {
+    "slug": "duda",
+    "name": "Duda",
+    "url": "https://duda.sjv.io/vDQBkN",
+    "network": "impact",
+    "commission": "\u2014",
+    "status": "active",
+    "category": "website-builder",
+    "notes": "Added 2026-06-16 via bulk affiliate import."
+  },
+  {
+    "slug": "ringplanet",
+    "name": "RingPlanet",
+    "url": "https://preferredlongdistance.pxf.io/yZj0Ay",
+    "network": "impact",
+    "commission": "\u2014",
+    "status": "active",
+    "category": "voip-business-phone",
+    "notes": "Added 2026-06-16 via bulk affiliate import."
   }
 ]
