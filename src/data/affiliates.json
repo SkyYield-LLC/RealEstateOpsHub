@@ -7,7 +7,7 @@
     "network": "firstpromoter",
     "status": "active",
     "category": "all-in-one-marketing",
-    "notes": "Carried over from RealEstateOpsHub \u2014 VERIFY with GHL whether the same fp_ref code can be used for promoting from realestateopshub.com. Top 2026 pick for real estate lead funnels + AI follow-up automation."
+    "notes": "Carried over from RealEstateOpsHub — VERIFY with GHL whether the same fp_ref code can be used for promoting from realestateopshub.com. Top 2026 pick for real estate lead funnels + AI follow-up automation."
   },
   {
     "slug": "dealcheck",
@@ -26,7 +26,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Social Media"
+    "category": "Social Media",
+    "externalProgramId": "42530",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:18.990Z"
   },
   {
     "slug": "surveysparrow",
@@ -35,7 +38,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Customer Feedback"
+    "category": "Customer Feedback",
+    "externalProgramId": "48398",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:18.990Z"
   },
   {
     "slug": "thrivesparrow",
@@ -53,7 +59,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Payments & Billing"
+    "category": "Payments & Billing",
+    "externalProgramId": "25463",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:18.989Z"
   },
   {
     "slug": "aweber",
@@ -71,7 +80,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Video & Content"
+    "category": "Video & Content",
+    "externalProgramId": "12258",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:18.989Z"
   },
   {
     "slug": "sparrowdesk",
@@ -89,7 +101,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "externalProgramId": "21260",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:18.989Z"
   },
   {
     "slug": "retouch4me",
@@ -98,7 +113,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Photo & Design"
+    "category": "Photo & Design",
+    "externalProgramId": "39694",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:18.989Z"
   },
   {
     "slug": "esignly",
@@ -177,20 +195,26 @@
     "name": "Duda",
     "url": "https://duda.sjv.io/vDQBkN",
     "network": "impact",
-    "commission": "\u2014",
+    "commission": "—",
     "status": "active",
     "category": "website-builder",
-    "notes": "Added 2026-06-16 via bulk affiliate import."
+    "notes": "Added 2026-06-16 via bulk affiliate import.",
+    "externalProgramId": "13628",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:18.989Z"
   },
   {
     "slug": "ringplanet",
     "name": "RingPlanet",
     "url": "https://preferredlongdistance.pxf.io/yZj0Ay",
     "network": "impact",
-    "commission": "\u2014",
+    "commission": "—",
     "status": "active",
     "category": "voip-business-phone",
-    "notes": "Added 2026-06-16 via bulk affiliate import."
+    "notes": "Added 2026-06-16 via bulk affiliate import.",
+    "externalProgramId": "41090",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:18.990Z"
   },
   {
     "slug": "munch",
@@ -199,7 +223,7 @@
     "commission": "Recurring Subscription",
     "network": "impact",
     "status": "active",
-    "category": "Social Media \u00b7 SMB",
+    "category": "Social Media · SMB",
     "externalProgramId": "42530",
     "applicationStatus": "approved",
     "approvedAt": "2026-06-29T20:00:00Z"
