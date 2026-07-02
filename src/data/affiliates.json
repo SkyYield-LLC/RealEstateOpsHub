@@ -7,7 +7,9 @@
     "network": "firstpromoter",
     "status": "active",
     "category": "all-in-one-marketing",
-    "notes": "Carried over from RealEstateOpsHub — VERIFY with GHL whether the same fp_ref code can be used for promoting from realestateopshub.com. Top 2026 pick for real estate lead funnels + AI follow-up automation."
+    "notes": "Carried over from RealEstateOpsHub \u2014 VERIFY with GHL whether the same fp_ref code can be used for promoting from realestateopshub.com. Top 2026 pick for real estate lead funnels + AI follow-up automation.",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "dealcheck",
@@ -17,7 +19,9 @@
     "network": "firstpromoter",
     "status": "active",
     "category": "property-analysis",
-    "notes": "Carried over from STRStack (fp_ref=stosh11). Popular property analysis tool with verified lifetime recurring. VERIFY same ID can be used on realestateopshub.com."
+    "notes": "Carried over from STRStack (fp_ref=stosh11). Popular property analysis tool with verified lifetime recurring. VERIFY same ID can be used on realestateopshub.com.",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "munch-studio",
@@ -50,7 +54,9 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "HR & Employee Engagement"
+    "category": "HR & Employee Engagement",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "melio",
@@ -71,7 +77,9 @@
     "commission": "50% recurring",
     "network": "direct",
     "status": "active",
-    "category": "email-marketing"
+    "category": "email-marketing",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "invideo",
@@ -92,7 +100,9 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Support & Helpdesk"
+    "category": "Support & Helpdesk",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "omnisend",
@@ -125,7 +135,9 @@
     "commission": "10% recurring",
     "network": "rewardful",
     "status": "active",
-    "category": "Documents & E-Signatures"
+    "category": "Documents & E-Signatures",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "profitbooks",
@@ -134,7 +146,9 @@
     "commission": "30% recurring 3 years",
     "network": "other",
     "status": "active",
-    "category": "Accounting"
+    "category": "Accounting",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "clickfunnels",
@@ -143,7 +157,9 @@
     "commission": "30% recurring",
     "network": "direct",
     "status": "active",
-    "category": "Sales Funnels"
+    "category": "Sales Funnels",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "moosend",
@@ -164,7 +180,9 @@
     "commission": "referral",
     "network": "direct",
     "status": "active",
-    "category": "Document Automation"
+    "category": "Document Automation",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "invoice-ninja",
@@ -173,7 +191,9 @@
     "commission": "50% for 3-4 years",
     "network": "direct",
     "status": "active",
-    "category": "Invoicing"
+    "category": "Invoicing",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "cloudways",
@@ -182,7 +202,9 @@
     "commission": "$30 + 7% lifetime",
     "network": "direct",
     "status": "active",
-    "category": "Hosting"
+    "category": "Hosting",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "rentcast",
@@ -191,14 +213,16 @@
     "commission": "referral",
     "network": "direct",
     "status": "active",
-    "category": "Data & Analytics"
+    "category": "Data & Analytics",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-07-02T20:00:00Z"
   },
   {
     "slug": "duda",
     "name": "Duda",
     "url": "https://duda.sjv.io/vDQBkN",
     "network": "impact",
-    "commission": "—",
+    "commission": "\u2014",
     "status": "active",
     "category": "website-builder",
     "notes": "Added 2026-06-16 via bulk affiliate import.",
@@ -211,25 +235,13 @@
     "name": "RingPlanet",
     "url": "https://preferredlongdistance.pxf.io/yZj0Ay",
     "network": "impact",
-    "commission": "—",
+    "commission": "\u2014",
     "status": "active",
     "category": "voip-business-phone",
     "notes": "Added 2026-06-16 via bulk affiliate import.",
     "externalProgramId": "41090",
     "applicationStatus": "approved",
     "approvedAt": "2026-06-30T18:12:18.990Z"
-  },
-  {
-    "slug": "munch",
-    "name": "Munch",
-    "url": "https://munchstudio.com",
-    "commission": "Recurring Subscription",
-    "network": "impact",
-    "status": "active",
-    "category": "Social Media · SMB",
-    "externalProgramId": "42530",
-    "applicationStatus": "approved",
-    "approvedAt": "2026-06-29T20:00:00Z"
   },
   {
     "slug": "thinkific",
