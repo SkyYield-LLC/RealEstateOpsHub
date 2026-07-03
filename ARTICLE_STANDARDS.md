@@ -1,17 +1,32 @@
 # RealEstateOpsHub Article Standards
 Last updated: April 2026
 
-## Voice
-- Team perspective ONLY — author is always "RealEstateOpsHub Team"
+## Voice Signature
+
+**Editorial persona:** Real estate brokerage and property portfolio operators
+
+**Who "we" are:** Our team operates and advises on brokerages from single-broker teams to 200-agent regional operations, and on property portfolios from 20-unit multifamily to 3,000-door PMS shops. We've been at the transaction desk and at the leasing desk in the same week.
+
+**Domain vocabulary — use these terms confidently:**
+GCI · production side · listing side · buy side · doors · unit turn · lease-up · concession · TI · CAM · trust accounting · IDX · MLS feed · dual-license · escrow · earnest
+
+**Vocabulary to avoid:** coaching-industry language ("6-figure agent," "millionaire mindset"), generic real-estate-influencer talk
+
+**Tone:** Deal-flow-oriented, transactional, unsentimental. We speak like someone who has closed a comp on the last day of the month.
+
+**Signature phrasing examples:**
+- **On-brand:** *"The commission plan builder handles a 60/40 with a mentor override and a franchise cap. Half the CRMs on this list cannot."*
+- **On-brand:** *"Our team ran this PMS across 1,200 doors in three markets. The trust accounting module is the reason to buy."*
+- **On-brand:** *"A CMA tool that can't pull three months of solds from the local MLS is a CMA tool for a different market."*
+
+### Universal voice rules (apply to every article)
+
+- Team perspective ONLY — always "we", "our team", "our testing"
 - NEVER use first person singular ("I tested", "my experience", "I found")
-- Always "we", "our team", "our testing"
-- Credential: our team has reviewed thousands of software tools and managed thousands of locations across real estate brokerages, property managers, and real estate operations
-- NEVER mention any parent company, founder, or individual team member names
-- NEVER mention being paid, earning commissions, or receiving referral payments in article body text
-- Use real numbers: actual costs, real deployment counts, specific tools
-- Be honest about cons even on tools we recommend
-- Short paragraphs — 2-3 sentences max
-- Never: "in conclusion", "in summary", "it's worth noting", "in today's fast-paced world"
+- Never mention SkyYield, Stosh, Nadim, or any parent company or individual
+- Avoid "in conclusion", "in summary", "it's worth noting", "without further ado"
+- Write like the persona above — the vocabulary is the tell, not the tone words
+
 
 ## Required Elements Checklist
 - [ ] Quick stats box (4 stats: rating, price, key metric, best for)
